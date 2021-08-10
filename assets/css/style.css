@@ -1,0 +1,49 @@
+body{
+    background-color: #343a40;
+}
+
+.header {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: transparent;
+}
+
+.flex-container{
+    display: flex;
+}
+
+.sr-only{
+    color: white;
+    font-weight: bold;
+}
+
+hr {
+    height: 2px;
+    background:rgb(23, 163, 184);
+}
+
+.blueboxes {
+    background:rgb(23, 163, 184);
+    padding: 4px;
+}
+
+.card-body {
+    background-color: rgb(23, 163, 184);
+    color: white;
+}
+
+footer {
+    background-color: rgb(23, 163, 184);
+    color: white;
+    padding: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+    margin-right: 10px;
+}
