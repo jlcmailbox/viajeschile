@@ -23,6 +23,10 @@ hr {
     background:rgb(23, 163, 184);
 }
 
+h5 {
+    font-weight: normal;
+
+}
 .blueboxes {
     background:rgb(23, 163, 184);
     padding: 4px;
@@ -39,6 +43,10 @@ footer {
     text-decoration: none;
 }
 
+a{
+    color: white;
+    text-decoration: none;    
+}
 ul {
     list-style: none;
 }
