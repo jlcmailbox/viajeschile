@@ -19,8 +19,9 @@ body{
     font-weight: bold;
 }
 
-hr {
-    background:rgb(23, 163, 184);
+.hr-color {
+    background: rgb(23, 163, 184);
+    height: 5px;
 }
 
 h5 {
@@ -50,6 +51,7 @@ a{
 
 ul {
     list-style: none;
+
 }
 
 li {
